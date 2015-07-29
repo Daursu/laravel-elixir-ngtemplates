@@ -1,0 +1,34 @@
+{
+  "name": "laravel-elixir-ngtemplates",
+  "version": "0.1.0",
+  "description": "Elixir 3 module that allows concatenation of all angular templates in a single templateCache file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "templatecache",
+    "htlmmin",
+    "gulp"
+  ],
+  "author": "Dan Ursu <dan@ursu.co.uk>",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+    "gulp-angular-templatecache": "^1.5.0",
+    "gulp-htmlmin": "^1.1.1",
+    "extend": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daursu/laravel-elixir-ngtemplates"
+  },
+  "bugs": {
+    "url": "https://github.com/Daursu/laravel-elixir-ngtemplates/issues"
+  },
+  "homepage": "https://github.com/Daursu/laravel-elixir-ngtemplates"
+}
+
